@@ -1,0 +1,179 @@
+{
+    "villanos": [
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/drdoom.png",
+            "size": 40000,
+            "name": "Victor von Doom",
+            "link": "http://marvel.com/characters/13/dr_doom",
+            "hero": "Dr. Doom"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/mystique.png",
+            "size": 40000,
+            "name": "Unrevealed",
+            "link": "http://marvel.com/characters/1552/mystique",
+            "hero": "Mystique"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/redskull.png",
+            "size": 40000,
+            "name": "Johann Shmidt",
+            "link": "http://marvel.com/characters/1901/red_skull",
+            "hero": "Red Skull"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/ronan.png",
+            "size": 40000,
+            "name": "Ronan",
+            "link": "http://marvel.com/characters/49/ronan",
+            "hero": "Ronan"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/magneto.png",
+            "size": 40000,
+            "name": "Max Eisenhardt",
+            "link": "http://marvel.com/characters/35/magneto",
+            "hero": "Magneto"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/thanos.png",
+            "size": 40000,
+            "name": "Thanos",
+            "link": "http://marvel.com/characters/58/thanos",
+            "hero": "Thanos"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/blackcat.png",
+            "size": 40000,
+            "name": "Felicia Hardy",
+            "link": "http://marvel.com/characters/271/black_cat",
+            "hero": "Black Cat"
+        }
+    ],
+    "heroes": [
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_spiderman.png",
+            "size": 40000,
+            "name": "Peter Benjamin Parker",
+            "link": "http://marvel.com/characters/54/spider-man",
+            "hero": "Spider-Man"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_captainmarvel.png",
+            "size": 40000,
+            "name": "Carol Danvers",
+            "link": " ",
+            "hero": "CAPTAIN MARVEL"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_hulk.png",
+            "size": 40000,
+            "name": "Robert Bruce Banner",
+            "link": "http://marvel.com/characters/25/hulk",
+            "hero": "HULK"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_blackwidow.png",
+            "size": 40000,
+            "name": "Natalia 'Natasha' Alianovna Romanova",
+            "link": "http://marvel.com/characters/6/black_widow",
+            "hero": "Black Widow"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_daredevil.png",
+            "size": 40000,
+            "name": "Matthew Michael Murdock",
+            "link": "http://marvel.com/characters/11/daredevil",
+            "hero": "Daredevil"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_wolverine.png",
+            "size": 40000,
+            "name": "James Howlett",
+            "link": "http://marvel.com/characters/66/wolverine",
+            "hero": "Wolverine"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_captainamerica.png",
+            "size": 40000,
+            "name": "Steven Rogers",
+            "link": "http://marvel.com/characters/8/captain_america",
+            "hero": "Captain America"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_ironman.png",
+            "size": 40000,
+            "name": "Anthony Edward 'Tony' Stark",
+            "link": "http://marvel.com/characters/29/iron_man",
+            "hero": "Iron Man"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/top_thor.png",
+            "size": 40000,
+            "name": "Thor Odinson",
+            "link": "http://marvel.com/characters/60/thor",
+            "hero": "THOR"
+        },
+        {
+            "img": "imagenes sin especificar",
+            "size": 300,
+            "link": "www.mortaledoyfile.com",
+            "heroName": "mortadelo y filemon",
+            "nombre": "sin identificar"
+        },
+        {
+            "img": "mirar en google",
+            "size": 45434,
+            "link": "www.torrentemarbella.com",
+            "heroName": "torrente",
+            "nombre": "jose luis torrente"
+        }
+    ],
+    "vill": "Villains",
+    "hero": "Heroes",
+    "grupos": [
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/avengers.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/68/avengers",
+            "hero": "Avengers"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/gofgalaxy.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
+            "hero": "Guardians of the Galaxy"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/defenders.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/534/defenders",
+            "hero": "Defenders"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/xmen.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/71/x-men",
+            "hero": "X-Men"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/fantasticfour.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/69/fantastic_four",
+            "hero": "Fantastic Four"
+        },
+        {
+            "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/inhumans.png",
+            "size": 40000,
+            "name": "",
+            "link": "http://marvel.com/characters/1040/inhumans",
+            "hero": "Inhumans"
+        }
+    ],
+    "team": "Teams"
+}
